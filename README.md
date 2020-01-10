@@ -1,2 +1,3 @@
 # BlackJack-game
-My first Repository
+My first Repository 
+Creating Simple Blackjack game using PYTHON.
